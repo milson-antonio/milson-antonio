@@ -1,6 +1,6 @@
 <h2>👋 Hey! I'm Milson.</h2>
 
-I'm a passionate backend developer with 5+ years of experience working mostly with Java and the Spring ecosystem.
+I'm a passionate backend developer with 6+ years of experience working mostly with Java and the Spring ecosystem.
 
 🎓 I hold a Bachelor's degree in Computer Science from [FURB](https://furb.br) (Brazil) and a Master’s in Computer Engineering with a focus on IoT from [UJA](https://ujaen.es) (Spain).
 
