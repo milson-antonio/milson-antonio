@@ -27,10 +27,10 @@ I'm a passionate backend developer with 5+ years of experience working mostly wi
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/milson-antonio)
 - 📹 [YouTube – MilsonDev](https://www.youtube.com/@MilsonDev)
-- 🌐 [GitHub Pages](https://milsondepaz.github.io)
+- 🌐 [GitHub Pages](https://milson-antonio.github.io)
 
 ---
 
-<a href="https://github.com/Milsondepaz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Milsondepaz&theme=buefy&show_icons=true" />
+<a href="https://github.com/milson-antonio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milson-antonio&theme=buefy&show_icons=true" />
 </a>
