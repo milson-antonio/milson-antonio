@@ -1,10 +1,10 @@
 <h2>👋 Hey! I'm Milson.</h2>
 
-I'm a passionate backend developer with 5+ years of experience working mostly with Java and the Spring ecosystem.
+I'm a passionate Java Backend Developer with 5+ years of experience working mostly with Java and the Spring ecosystem.
 
 🎓 I hold a Bachelor's degree in Computer Science from [FURB](https://furb.br) (Brazil) and a Master’s in Computer Engineering with a focus on IoT from [UJA](https://ujaen.es) (Spain).
 
-💻 Along the way, I’ve played around with C#, C++, Delphi (yep!), and more recently Go.
+💻 Along the way, I’ve worked with C#, C++, Delphi (yep!), and more recently just for fun with Go.
 
 ⚙️ My daily work involves Spring Boot, Docker, RabbitMQ, PostgreSQL, MongoDB, CI/CD pipelines, and other backend tech. I enjoy writing clean, maintainable, and testable code, and working in collaborative teams to ship better solutions.
 
