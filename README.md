@@ -26,7 +26,7 @@ I'm a passionate Java Backend Developer with 5+ years of experience working most
 ### 📡 Let's connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/milson-antonio)
-- 📹 [YouTube – MilsonDev](https://www.youtube.com/@MilsonDev)
+- 📹 [YouTube – MilsonDev](https://www.youtube.com/@milson-antonio)
 - 🌐 [GitHub Pages](https://milson-antonio.github.io)
 
 ---
