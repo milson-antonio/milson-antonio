@@ -25,9 +25,9 @@ I'm a passionate Backend Developer with 6+ years of experience working mostly wi
 
 ### 📡 Let's connect
 
-- 🔗 <a href="https://www.linkedin.com/in/milson-antonio" target="_blank">LinkedIn</a>  
-- 📹 <a href="https://www.youtube.com/@milson-antonio" target="_blank">YouTube – Milson Antonio</a>  
-- 🌐 <a href="https://milson-antonio.github.io/dev/" target="_blank">Site</a>  
+- 🔗 <a href="https://www.linkedin.com/in/milson-antonio" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
+- 📹 <a href="https://www.youtube.com/@milson-antonio" target="_blank" rel="noopener noreferrer">YouTube</a>  
+- 🌐 <a href="https://milson-antonio.github.io/dev/" target="_blank" rel="noopener noreferrer">Site</a>
 
 ---
 
