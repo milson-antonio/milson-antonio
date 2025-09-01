@@ -1,14 +1,14 @@
-<h2>👋 Hey! I'm Milson.</h2>
+<h2>Hi! 👋 </h2>
 
-I'm a passionate Backend Developer with 6+ years of experience working mostly with Java and the Spring ecosystem.
+I'm a Software Engineer specialized in the JVM-based ecosystem such as Java and Kotlin languages with over 6+ years of experience in Backend Development.
 
-🎓 I hold a Bachelor's degree in Computer Science from [FURB](https://furb.br) (Brazil) and a Master’s in Computer Engineering with a focus on IoT from [UJA](https://ujaen.es) (Spain).
+I hold a Bachelor’s degree in Computer Science from [FURB](https://furb.br) – Universidade Regional de Blumenau (Brazil, 2014-2018) and studied a Master’s in Computer Engineering at Universidad de Jaén - [UJA](https://ujaen.es) (Spain, 2018-2020).
 
-💻 Along the way, I’ve worked with C#, C++, Delphi, and more recently just for fun with Kotlin and Go.
+Throughout my career, I’ve worked short time with Pascal/Delphi, C#, and C++, but my main language is Java with some occasional ventures into Kotlin. 
 
-⚙️ My daily work involves Spring Boot, Docker, RabbitMQ, PostgreSQL, MongoDB, CI/CD pipelines, and other backend tech. I enjoy writing clean, maintainable, and testable code, and working in collaborative teams to ship better solutions.
+As a Java Developer, I’ve implemented, and deployed solutions using the Spring ecosystem, with a focus on microservices architecture, API development, and system performance. I also bring hands-on experience with modern backend tools and practices such as Docker, Message-Brokers, both relational and NoSQL databases and CI/CD pipelines. 
 
-🚀 I've contributed to various projects like migrating legacy systems to modern platforms, real-time location systems, tax collection platforms for city governments, and event/sports apps.
+Over the years, I’ve contributed to projects involving the migration of legacy systems to modern web platforms, I've developed systems for sports and entertainment, tax collection systems for city governments and real time location systems for any industry.
 
 ---
 
