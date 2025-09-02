@@ -6,7 +6,8 @@ I'm a **Software Engineer** specialized in the JVM ecosystem (Java & Kotlin) wit
 🎓 Master’s in Computer Engineering – [Universidad de Jaén](https://ujaen.es) (Spain, 2018-2020)  
 
 💻 Experienced in designing and deploying systems with **Spring ecosystem, Microservices, API development, and performance optimization**.  
-🐳 Hands-on with **Linux, Docker, CI/CD, Message Brokers, SQL & NoSQL Databases**.  
+   
+   Hands-on with **Linux, Docker, CI/CD, Message Brokers, SQL & NoSQL Databases**.  
 
 ---
 
