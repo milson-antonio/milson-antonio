@@ -1,4 +1,4 @@
-<h2>Hi there! 👋 I'm Milson Antonio</h2>
+<h2>Hi! I'm Milson Antonio</h2>
 
 I'm a **Software Engineer** specialized in the JVM ecosystem (Java & Kotlin) with over **6 years of experience** in Backend Development.  
 
@@ -21,7 +21,7 @@ I'm a **Software Engineer** specialized in the JVM ecosystem (Java & Kotlin) wit
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 #### 🛒 E-Commerce Platform (Spring Boot + Thymeleaf + HTMX)
 Full-stack e-commerce project with **product catalog, cart, checkout and PayPal integration**.  
