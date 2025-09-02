@@ -25,10 +25,11 @@ I'm a **Software Engineer** specialized in the JVM ecosystem (Java & Kotlin) wit
 ### Featured Projects
 
 #### 🛒 E-Commerce Platform (Spring Boot + Thymeleaf + HTMX)
-Full-stack e-commerce project with **product catalog, cart, checkout and PayPal integration**.  
-- Backend in Spring Boot (microservices style)  
-- Frontend with Thymeleaf & HTMX (dynamic updates)  
-- Monitoring via **Spring Boot Admin, Prometheus & Grafana**  
+Full-stack **e-commerce system** with product catalog, shopping cart, checkout and PayPal integration.  
+- Backend in **Spring Boot microservices**  
+- Frontend with **Thymeleaf + HTMX** for dynamic updates  
+- Monitoring with **Spring Boot Admin, Prometheus & Grafana**  
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/milson-antonio/ecommerce-project/main/docs/screenshot.png" width="600"/>
 </p>
@@ -37,34 +38,59 @@ Full-stack e-commerce project with **product catalog, cart, checkout and PayPal 
 
 ---
 
-#### 📡 Event Filter Application
-Microservice application with **RabbitMQ + PostgreSQL** for processing and filtering events in real time.  
-- Built in **Java 8 + Spring Boot 1.5** (legacy migration project)  
-- Dockerized for CI/CD pipelines  
-- Unit & Integration tests with Testcontainers  
-
-🔗 [View Repository](https://github.com/milson-antonio/event-filter-application)
-
----
-
-#### 📊 Admin & Monitoring Stack
-Docker-based stack for monitoring and managing applications.  
-- **Spring Boot Admin** for application health  
-- **Prometheus + Grafana** for server metrics (CPU, RAM, Disk)  
-- **Portainer** for Docker management  
-
-🔗 [View Repository](https://github.com/milson-antonio/spring-admin-monitoring)
-
----
-
-#### 🎥 Tech YouTube Channel – [@MilsonDev](https://www.youtube.com/@milson-antonio)
-I create educational content about **Backend Development, Spring Boot, Docker, and software engineering**.  
+#### ⚓ Port Simulator (Java 8)
+A **port logistics simulator** built entirely in Java 8.  
+- Simulation of **ships docking/unloading**  
+- Queue management of containers  
+- Demonstrates concurrency and scheduling in Java  
 
 <p align="center">
-  <a href="https://www.youtube.com/@milson-antonio">
-    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" width="480" />
-  </a>
+  <img src="https://raw.githubusercontent.com/milson-antonio/port-simulator/main/docs/screenshot.png" width="600"/>
 </p>
+
+🔗 [View Repository](https://github.com/milson-antonio/port-simulator)  
+
+---
+
+#### 🔗 URL Shortener (Servus)
+Custom **URL shortener service**, designed to be simple and scalable.  
+- REST API for shortening & redirecting URLs  
+- Stores metadata (created_at, owner, expiration)  
+- Built with Spring Boot + PostgreSQL  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/milson-antonio/servus-url-shortener/main/docs/screenshot.png" width="600"/>
+</p>
+
+🔗 [View Repository](https://github.com/milson-antonio/servus-url-shortener)  
+
+---
+
+#### 🏛️ Servus – Embassy Management System
+System for managing appointments and services in embassies.  
+- Handles **appointment scheduling** (reschedule, cancel, notifications)  
+- Built with **Spring Boot, Thymeleaf & Docker**  
+- Flyway migrations for database versioning  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/milson-antonio/servus-embassy-management/main/docs/screenshot.png" width="600"/>
+</p>
+
+🔗 [View Repository](https://github.com/milson-antonio/servus-embassy-management)  
+
+---
+
+#### 🧩 IntelliJ IDEA Plugin
+Custom plugin for **IntelliJ IDEA**, extending developer productivity.  
+- Adds shortcuts and utilities for JVM developers  
+- Written in **Java + Gradle**  
+- Integrated directly into the IntelliJ platform  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/milson-antonio/intellij-plugin/main/docs/screenshot.png" width="600"/>
+</p>
+
+🔗 [View Repository](https://github.com/milson-antonio/intellij-plugin)  
 
 ---
 
