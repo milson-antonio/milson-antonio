@@ -22,77 +22,46 @@ I'm a **Software Engineer** specialized in the JVM ecosystem (Java & Kotlin) wit
 
 ---
 
-### Featured Projects
-
-#### 🛒 E-Commerce Platform (Spring Boot + Thymeleaf + HTMX)
-Full-stack **e-commerce system** with product catalog, shopping cart, checkout and PayPal integration.  
-- Backend in **Spring Boot microservices**  
-- Frontend with **Thymeleaf + HTMX** for dynamic updates  
-- Monitoring with **Spring Boot Admin, Prometheus & Grafana**  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/milson-antonio/ecommerce-project/main/docs/screenshot.png" width="600"/>
-</p>
-
-🔗 [View Repository](https://github.com/milson-antonio/ecommerce-project)  
-
----
-
-#### ⚓ Port Simulator (Java 8)
-A **port logistics simulator** built entirely in Java 8.  
-- Simulation of **ships docking/unloading**  
-- Queue management of containers  
-- Demonstrates concurrency and scheduling in Java  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/milson-antonio/port-simulator/main/docs/screenshot.png" width="600"/>
-</p>
-
-🔗 [View Repository](https://github.com/milson-antonio/port-simulator)  
-
----
-
-#### 🔗 URL Shortener (Servus)
-Custom **URL shortener service**, designed to be simple and scalable.  
-- REST API for shortening & redirecting URLs  
-- Stores metadata (created_at, owner, expiration)  
-- Built with Spring Boot + PostgreSQL  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/milson-antonio/servus-url-shortener/main/docs/screenshot.png" width="600"/>
-</p>
-
-🔗 [View Repository](https://github.com/milson-antonio/servus-url-shortener)  
-
----
+### 🚀 Some Public Featured Projects
 
 #### 🏛️ Servus – Embassy Management System
-System for managing appointments and services in embassies.  
-- Handles **appointment scheduling** (reschedule, cancel, notifications)  
-- Built with **Spring Boot, Thymeleaf & Docker**  
-- Flyway migrations for database versioning  
+Fullstack system for managing embassy appointments and services.  
+- **Java 21, Spring Boot, PostgreSQL**  
+- Security with **JWT and multiple roles**  
+- Frontend with **Thymeleaf + HTMX + TailwindCSS**  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/milson-antonio/servus-embassy-management/main/docs/screenshot.png" width="600"/>
-</p>
-
-🔗 [View Repository](https://github.com/milson-antonio/servus-embassy-management)  
+🔗 [View Repository](https://github.com/milson-antonio/servus)
 
 ---
 
-#### 🧩 IntelliJ IDEA Plugin
-Custom plugin for **IntelliJ IDEA**, extending developer productivity.  
-- Adds shortcuts and utilities for JVM developers  
-- Written in **Java + Gradle**  
-- Integrated directly into the IntelliJ platform  
+#### 🔗 URL Shortener
+A modern and scalable URL shortener service.  
+- Built with **Kotlin + Spring Boot**  
+- **Redis + PostgreSQL** for storage  
+- API documentation with **Swagger**  
+- **Testcontainers, Docker & Docker Compose** for testing and deployment  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/milson-antonio/intellij-plugin/main/docs/screenshot.png" width="600"/>
-</p>
-
-🔗 [View Repository](https://github.com/milson-antonio/intellij-plugin)  
+🔗 [View Repository](https://github.com/milson-antonio/url-shortener)
 
 ---
+
+#### 📂 Download & Upload Files
+Fullstack application for managing file uploads and downloads.  
+- **Java, Spring Boot, PostgreSQL**  
+- Frontend with **Thymeleaf + jQuery + Bootstrap**  
+- REST endpoints for file operations  
+
+🔗 [View Repository](https://github.com/milson-antonio/download-upload-files)
+
+---
+
+#### ✅ Task Management
+A simple yet complete task manager (to-do list) application.  
+- Fullstack with **Java, Spring Boot, PostgreSQL**  
+- Frontend using **Thymeleaf + HTMX**  
+- **Docker & Docker Compose** for containerized deployment  
+
+🔗 [View Repository](https://github.com/milson-antonio/task-management)
 
 ### 📈 GitHub Stats
 <a href="https://github.com/milson-antonio">
